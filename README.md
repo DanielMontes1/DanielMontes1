@@ -2,6 +2,7 @@
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
+|H|I|    |T|H|I|S|   |I|S|   |M|U|L|T|I|
 
 ### Hola compañeros 👋
 
@@ -17,7 +18,7 @@ Estudiante de 12° semestre en la ing. de sistemas computacionales del TecTijuan
 
 Ejemplo Tablas en MD
 
-|  M	|  U 	|  L  |  T  |  I  |
+
 
 
 Guias:
