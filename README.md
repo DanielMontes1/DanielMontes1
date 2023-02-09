@@ -17,7 +17,7 @@ Estudiante de 12° semestre en la ing. de sistemas computacionales del TecTijuan
 
 Ejemplo Tablas en MD
 
-| Sensores 	|  X 	|  Y  	|
+|  	|   	|    	|
 |----------	|:--:	|:---:	|
 | Co2      	| 20 	|  30 	|
 | temp     	| 11 	|  27 	|
