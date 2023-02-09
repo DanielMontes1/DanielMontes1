@@ -17,11 +17,8 @@ Estudiante de 12° semestre en la ing. de sistemas computacionales del TecTijuan
 
 Ejemplo Tablas en MD
 
-|  	|   	|    	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
+|  M	|  U 	|  L  |  T  |  I  |
+
 
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
