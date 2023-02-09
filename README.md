@@ -1,6 +1,6 @@
 ![](https://images.cooltext.com/5508510.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="https://www.amadeusescuelademusica.es/descubriendo-los-instrumentos-el-piano/" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 
 |H|I|    |T|H|I|S|   |I|S|   |M|U|L|T|I|
